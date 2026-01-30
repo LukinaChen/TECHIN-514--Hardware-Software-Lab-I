@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ADP3331ARTZ-REEL7")(type "KiCad")(uri "/Users/chensiying/Documents/mas/UW MSTI/514hardware&software/ADP3331ARTZ_REEL7/ADP3331ARTZ-REEL7.kicad_sym")(options "")(descr ""))
+  (lib (name "2026-01-29_05-32-58")(type "KiCad")(uri "/Users/chensiying/Documents/mas/UW MSTI/514hardware&software/ul_VEML7700-TR/KiCADv6/2026-01-29_05-32-58.kicad_sym")(options "")(descr ""))
+)
